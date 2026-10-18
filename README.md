@@ -12,3 +12,23 @@
 该分析程序所应用的交易策略，并非书中典型策略的原样复刻，而是根据我自己的理解和需求进行了一定程度上的变更。
 
 交易策略的收益效果并未经过严格测试，不构成投资建议。
+
+典型的三种使用方法：
+
+程序将读取 _watchlist.toml 中预定义的股票列表，下载它们的 OHLCV 数据，计算指标，输出交易信号。
+
+python main.py
+
+程序将读取指定市场（支持 A 股，港股，美股）的指定指数的成分股列表，下载它们的 OHLCV 数据，计算指标，输出交易信号。
+
+python main.py Index A 000510
+
+python main.py Index HK HSI
+
+python main.py Index US SPX
+
+程序将读取指定配置文件中的股票列表，下载它们的 OHLCV 数据，计算指标，输出交易信号。
+
+python main.py A-ETF.toml
+
+python main.py US-ETF.toml
