@@ -27,12 +27,12 @@ python main.py Index HK HSI
 
 python main.py Index US SPX
 
-使用上述任意一种方法执行程序之后，将会自动生成 charts data signals 三个目录，并在它们各自的子目录中分别生成 HTML 图表 & CSV 数据文件 & Markdown 交易信号文件。
-
-效果如下图所示：
-
 三、程序将读取指定配置文件中的股票列表，下载它们的 OHLCV 数据，计算指标，输出交易信号。
 
 python main.py A-ETF.toml
 
 python main.py US-ETF.toml
+
+使用上述任意一种方法执行程序之后，将会自动生成 charts data signals 三个目录，并在它们各自的子目录中分别生成 HTML 图表 & CSV 数据文件 & Markdown 交易信号文件。
+
+效果如下图所示：
