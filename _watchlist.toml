@@ -1,0 +1,9 @@
+# 定义自选列表成分股
+
+watchlist = [
+    {symbol = '600036', name = '招商银行', market = 'A', match_name = false},
+    {symbol = '510310', name = '沪深300ETF易方达', market = 'AF', match_name = false},
+    {symbol = '563020', name = '红利低波ETF易方达', market = 'AF', match_name = true},
+    {symbol = '00700', name = '腾讯控股', market = 'HK', match_name = false},
+    {symbol = 'AAPL', name = '苹果', market = 'US', match_name = false},
+]

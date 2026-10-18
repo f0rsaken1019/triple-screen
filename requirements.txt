@@ -1,0 +1,6 @@
+efinance
+numpy
+pandas
+plotly
+requests
+TA-Lib
