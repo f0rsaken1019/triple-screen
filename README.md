@@ -15,11 +15,11 @@
 
 典型的三种使用方法：
 
-程序将读取 _watchlist.toml 中预定义的股票列表，下载它们的 OHLCV 数据，计算指标，输出交易信号。
+一、程序将读取 _watchlist.toml 中预定义的股票列表，下载它们的 OHLCV 数据，计算指标，输出交易信号。
 
 python main.py
 
-程序将读取指定市场（支持 A 股，港股，美股）的指定指数的成分股列表，下载它们的 OHLCV 数据，计算指标，输出交易信号。
+二、程序将读取指定市场（支持 A 股，港股，美股）的指定指数的成分股列表，下载它们的 OHLCV 数据，计算指标，输出交易信号。
 
 python main.py Index A 000510
 
@@ -27,7 +27,7 @@ python main.py Index HK HSI
 
 python main.py Index US SPX
 
-程序将读取指定配置文件中的股票列表，下载它们的 OHLCV 数据，计算指标，输出交易信号。
+三、程序将读取指定配置文件中的股票列表，下载它们的 OHLCV 数据，计算指标，输出交易信号。
 
 python main.py A-ETF.toml
 
