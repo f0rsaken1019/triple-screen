@@ -36,3 +36,17 @@ python main.py US-ETF.toml
 使用上述任意一种方法执行程序之后，将会自动生成 charts data signals 三个目录，并在它们各自的子目录中分别生成 HTML 图表 & CSV 数据文件 & Markdown 交易信号文件。
 
 效果如下图所示：
+
+![01](https://github.com/f0rsaken1019/triple-screen/blob/main/images/01.png)
+
+![02](https://github.com/f0rsaken1019/triple-screen/blob/main/images/02.png)
+
+![03](https://github.com/f0rsaken1019/triple-screen/blob/main/images/03.png)
+
+![04](https://github.com/f0rsaken1019/triple-screen/blob/main/images/04.png)
+
+![05](https://github.com/f0rsaken1019/triple-screen/blob/main/images/05.png)
+
+![US-OKE-欧尼克-Weekly](https://github.com/f0rsaken1019/triple-screen/blob/main/images/US-OKE-欧尼克-Weekly.png)
+
+![US-OKE-欧尼克-Daily](https://github.com/f0rsaken1019/triple-screen/blob/main/images/US-OKE-欧尼克-Daily.png)
