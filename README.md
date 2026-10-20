@@ -47,6 +47,8 @@ python main.py US-ETF.toml
 
 ![05](https://github.com/f0rsaken1019/triple-screen/blob/main/images/05.png)
 
+![06](https://github.com/f0rsaken1019/triple-screen/blob/main/images/06.png)
+
 ![US-OKE-欧尼克-Weekly](https://github.com/f0rsaken1019/triple-screen/blob/main/images/US-OKE-欧尼克-Weekly.png)
 
 ![US-OKE-欧尼克-Daily](https://github.com/f0rsaken1019/triple-screen/blob/main/images/US-OKE-欧尼克-Daily.png)
