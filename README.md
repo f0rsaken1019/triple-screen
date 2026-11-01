@@ -12,8 +12,6 @@
 
 该分析程序所应用的交易策略，并非书中典型策略的原样复刻，而是根据我自己的理解和需求进行了一点点变更。
 
-交易策略的收益效果并未经过严格测试，不构成投资建议。
-
 ## 典型的三种使用方法：
 
 一、程序将读取 **_watchlist.toml** 中预定义的股票列表，下载它们的 OHLCV 数据，计算指标，输出交易信号。
@@ -93,4 +91,4 @@ python trading_plan_generator.py
 
 ![Triple_Screen_Strategy_Report-VOO.png](images/Triple_Screen_Strategy_Report-VOO.png)
 
-该回测结果仅供参考。
+上述回测结果仅供参考，未经过样本外检验和参数稳健性测试，不构成投资建议。
