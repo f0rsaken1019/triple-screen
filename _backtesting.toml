@@ -1,0 +1,14 @@
+# 定义自选列表成分股
+
+watchlist = [
+    {symbol = '510310', name = '沪深300ETF易方达', market = 'AF', match_name = false},
+    {symbol = '510500', name = '中证500ETF南方', market = 'AF', match_name = false},
+    {symbol = '512100', name = '中证1000ETF南方', market = 'AF', match_name = false},
+    {symbol = '159531', name = '中证2000ETF南方', market = 'AF', match_name = false},
+
+    {symbol = '02800', name = '盈富基金', market = 'HK', match_name = false},
+
+    {symbol = 'VOO', name = '标普500ETF-Vanguard', market = 'US', match_name = false},
+    {symbol = 'QQQ', name = '纳斯达克100ETF-Invesco', market = 'US', match_name = false},
+    {symbol = 'DIA', name = '道琼斯指数ETF-SPDR', market = 'US', match_name = false},
+]

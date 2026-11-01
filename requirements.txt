@@ -1,0 +1,8 @@
+akquant
+akshare
+efinance
+numpy
+pandas==3.0.6
+plotly
+requests
+TA-Lib
